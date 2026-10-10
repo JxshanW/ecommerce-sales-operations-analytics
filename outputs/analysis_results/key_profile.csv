@@ -1,0 +1,9 @@
+table,key_columns,duplicate_key_rows,null_key_rows
+olist_orders_dataset,order_id,0,0
+olist_order_items_dataset,"order_id, order_item_id",0,0
+olist_customers_dataset,customer_id,0,0
+olist_products_dataset,product_id,0,0
+olist_sellers_dataset,seller_id,0,0
+olist_order_payments_dataset,"order_id, payment_sequential",0,0
+olist_order_reviews_dataset,"review_id, order_id",0,0
+product_category_name_translation,product_category_name,0,0
